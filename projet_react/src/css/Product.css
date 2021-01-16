@@ -1,0 +1,8 @@
+.modbordure,.Detbordure{
+    border: 2px solid;
+    background-color: rgb(86, 101, 185);
+}
+.Detbordure{
+    border: 2px solid;
+    background-color: rgb(26, 230, 219); 
+}

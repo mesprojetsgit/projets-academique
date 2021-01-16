@@ -1,0 +1,32 @@
+{
+  "produits": [
+    {
+      "nom": "Chemise",
+      "prix": "6000",
+      "description": "FASHION",
+      "quantite": "100",
+      "id": 1
+    },
+    {
+      "nom": "Pantalon",
+      "prix": "4500",
+      "description": "Slim",
+      "quantite": "200",
+      "id": 2
+    },
+    {
+      "nom": "Sac a dos",
+      "prix": "15000",
+      "description": "DESIGN",
+      "quantite": "50",
+      "id": 3
+    },
+    {
+      "nom": "soulier",
+      "prix": "3500",
+      "description": "COUPER",
+      "quantite": "40",
+      "id": 4
+    }
+  ]
+}
